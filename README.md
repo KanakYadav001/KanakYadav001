@@ -1,47 +1,57 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanakyadav001&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kanak Yadav</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=F7941D&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Things" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kanakyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="kanakyadav001" />
 </p>
 
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/kanakya56614223" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" /></a>
-  <a href="https://linkedin.com/in/kanakyadav01" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
-  <a href="https://instagram.com/lets_writecode" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="35" /></a>
-  <a href="https://leetcode.com/kanakyadav011" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
+<p align="left">
+  <a href="https://twitter.com/kanakya56614223" target="blank">
+    <img src="https://img.shields.io/twitter/follow/kanakya56614223?logo=twitter&style=for-the-badge" alt="kanakyadav-twitter" />
+  </a>
 </p>
 
----
+[![An image of @kanakyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanakyadav)](https://holopin.io/@kanakyadav)
 
-### 🔧 Skills & Tools
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40" title="HTML5"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40" title="CSS3"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40" title="JavaScript"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" title="ReactJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="ExpressJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+- 👨‍💻 All of my projects are available at **https://www.kanakyadav.dev**  
+- 📫 How to reach me: **yadavkanak109@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kanakya56614223" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/kanakyadav01" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanakyadav001&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kanakyadav001&theme=radical" width="48%" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanakyadav001&theme=dark" alt="kanakyadav-streak" />
+</p>
+
 
 ---
 
