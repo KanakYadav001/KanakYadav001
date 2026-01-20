@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![An image of @kanakyadav001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanakyadav001)](https://holopin.io/@kanakyadav001)
+
 
  
 - 📫 How to reach me: **yadavkanak109@gmail.com**
