@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kanakyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="kanakyadav001" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/kanakya56614223" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kanakya56614223?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Contact Me
@@ -20,12 +14,11 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://twitter.com/kanakya56614223" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/kanakyadav01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
-  </a>
+<a href="https://twitter.com/kanakya56614223" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="35"/>
+</a><a href="https://linkedin.com/in/kanakyadav01" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
 </p>
 
 ---
