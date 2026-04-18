@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/kanakya56614223" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="35"/>
-</a><a href="https://linkedin.com/in/kanakyadav01" target="_blank">
+</a>   <a href="https://linkedin.com/in/kanakyadav01" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
 </p>
